@@ -1,0 +1,36 @@
+Student name: Yash Suhag
+Marks for Yash Suhag: 480
+Student name: Ajay seoran
+Marks for Ajay seoran: 399
+Student name: Himesh
+Marks for Himesh: 365
+Student name: Sunny
+Marks for Sunny: 380
+Student name: 
+
+------ Analysis Summary ------
+Students: 4
+
+------ Analysis Summary ------
+Students: 4
+
+
+------ Analysis Summary ------
+Students: 4
+Average: 406.00
+Median: 389.50
+Max: 480.00 ( Yash Suhag )
+Min: 365.00 ( Himesh )
+Grade distribution: {'A': 4, 'B': 0, 'C': 0, 'D': 0, 'F': 0}
+-------------------------------
+
+Name                   Marks   Grade
+----------------------------------------
+Yash Suhag            480.00        A
+Ajay seoran           399.00        A
+Himesh                365.00        A
+Sunny                 380.00        A
+----------------------------------------
+
+Passed (4): Yash Suhag, Ajay seoran, Himesh, Sunny
+Failed (0): None
